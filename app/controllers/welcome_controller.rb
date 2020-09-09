@@ -3,4 +3,6 @@ class WelcomeController < ApplicationController
   end
   def double
   end
+  def te1
+  end
 end
